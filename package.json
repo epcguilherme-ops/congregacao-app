@@ -1,0 +1,21 @@
+{
+  "name": "congregacao-app",
+  "version": "1.0.0",
+  "description": "Aplicativo completo para gerenciar congregações das Testemunhas de Jeová",
+  "private": true,
+  "workspaces": [
+    "backend",
+    "frontend",
+    "mobile"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspaces",
+    "build": "npm run build --workspaces",
+    "start": "npm run start --workspaces",
+    "test": "npm run test --workspaces",
+    "lint": "npm run lint --workspaces"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
