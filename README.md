@@ -1,4 +1,4 @@
-# 🙏 Congregação App - Gerenciador Completo de Congregações das Testemunhas de Jeová
+# 🙏 App exclusivo da Congregação Norte - Rio Verde, Goiás
 
 Um aplicativo moderno, seguro e responsivo para gerenciar todos os aspectos organizacionais e mecânicos de uma congregação das Testemunhas de Jeová.
 
